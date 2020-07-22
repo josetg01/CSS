@@ -10,3 +10,9 @@
       font-weight: normal;
       font-style:normal;
 }
+@font-face{
+     font-family: "LokiCola";
+     src: url('Fonts/lokicola.ttf) format('truetype'),
+      font-weight: normal;
+      font-style:normal;
+}
